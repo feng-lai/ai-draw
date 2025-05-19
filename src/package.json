@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gl-matrix": "^3.4.3",
+    "mapbox-gl": "^3.5.2",
+    "mxcad": "^1.0.238"
+  }
+}
