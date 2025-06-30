@@ -4,7 +4,7 @@
     <nav class="navbar">
       <div class="navbar-left">
         <a href="#" class="logo">
-          dzine<span class="beta">BETA</span>
+          siyan<span class="beta">BETA</span>
         </a>
 
         <div class="nav-links">
@@ -656,7 +656,7 @@
         <div class="footer-top">
           <div class="footer-brand">
             <a href="#" class="footer-logo">
-              <span class="logo-text">dzine</span>
+              <span class="logo-text">siyan</span>
               <span class="logo-beta">BETA</span>
             </a>
             <p class="footer-tagline">
@@ -782,7 +782,7 @@
         </div>
 
         <div class="footer-bottom">
-          <p class="copyright">Copyright © {{ new Date().getFullYear() }} Dzine</p>
+          <p class="copyright">Copyright © {{ new Date().getFullYear() }} siyan</p>
         </div>
       </div>
     </footer>
@@ -791,7 +791,7 @@
     <div class="modal-overlay" v-if="showLoginModal" @click="closeLoginModal"></div>
     <div class="login-modal" v-if="showLoginModal">
       <div class="modal-header">
-        <h3 class="modal-title">Log in to Dzine.ai</h3>
+        <h3 class="modal-title">Log in to siyan.ai</h3>
         <button class="modal-close" @click="showLoginModal = false">×</button>
       </div>
 
